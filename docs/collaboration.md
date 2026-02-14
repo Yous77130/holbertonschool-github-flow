@@ -1,5 +1,6 @@
 # Collaboration Guidelines
-Collaboration requires clear communication and well-defined responsibilities.
+Effective teamwork depends on continuous feedback and shared understanding.
+
 
 
 
